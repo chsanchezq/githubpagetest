@@ -13,4 +13,4 @@ async function loadIfc(url) {
 }
 
 // Llama a la función con la URL de tu archivo IFC
-loadIfc('assets/rac_basic_sample_project.ifc');
+loadIfc('assets/ifcbridge-model01.ifc.ifc');
