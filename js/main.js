@@ -13,4 +13,4 @@ async function loadIfc(url) {
 }
 
 // Llama a la función con la URL de tu archivo IFC
-loadIfc('https://drive.google.com/file/d/1L7Ba6i7emG31HL-tyXCkZpzeU__umQSW/view?usp=drive_link');
+loadIfc('https://drive.google.com/uc?export=download&id=1L7Ba6i7emG31HL-tyXCkZpzeU__umQSW');
